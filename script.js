@@ -150,7 +150,7 @@ if (form) {
     toast('Mở ứng dụng Email...');
   });
   const zalo = document.getElementById('openZalo');
-  zalo && zalo.addEventListener('click', () => window.open('https://zalo.me/84385531007', '_blank'));
+  zalo && zalo.addEventListener('click', () => window.open('https://zalo.me/8416016725', '_blank'));
 }
 
 // Back to top
